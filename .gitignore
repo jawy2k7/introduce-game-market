@@ -1,0 +1,12 @@
+# Large files - keep local only
+games/*.zip
+video/*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
